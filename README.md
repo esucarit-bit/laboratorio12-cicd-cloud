@@ -1,1 +1,0 @@
-# laboratorio12-cicd-cloud
